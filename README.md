@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello! / Olá! 👋
 
-<!--
-**gabsilvva/gabsilvva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work focuses on web applications (front-end and back-end) and interface design. My difference is to deliver quality products at all ends of the process, acting as a designer and programmer of your product. Having spent most of my time working on freelance and project-based roles, I am now focused on advancing my technical skills to pursue a Software Engineer position. My goal is to develop scalable, robust software that adheres to best practices in architecture and modeling while continuing to enhance user experiences and ensure system reliability.
 
-Here are some ideas to get you started:
+🏝️ Live in Rio de Janeiro, Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Skills
+
+### Front-end
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,threejs,js,ts,react,nextjs,gatsby,vue,nuxtjs,svelte,jquery)](https://skillicons.dev)
+
+### Back-end
+
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,nodejs,express,firebase,graphql,mongodb,prisma)](https://skillicons.dev)
+
+### CMS
+
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions,gitlab,npm,pnpm,yarn,vercel,netlify,aws,postman)](https://skillicons.dev)
+
+### Prototyping
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai)](https://skillicons.dev)
+
+## 📕 Studying
+
+[![My Skills](https://skillicons.dev/icons?i=nestjs,go,postgres,redis,docker,kubernetes,jest,kafka)](https://skillicons.dev)
