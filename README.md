@@ -2,8 +2,6 @@
 
 My work focuses on web applications (front-end and back-end) and interface design. My difference is to deliver quality products at all ends of the process, acting as a designer and programmer of your product. Having spent most of my time working on freelance and project-based roles, I am now focused on advancing my technical skills to pursue a Software Engineer position. My goal is to develop scalable, robust software that adheres to best practices in architecture and modeling while continuing to enhance user experiences and ensure system reliability.
 
-🏝️ Live in Rio de Janeiro, Brazil
-
 ## 💻 My Skills
 
 ### Front-end
