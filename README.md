@@ -12,10 +12,6 @@ My work focuses on web applications (front-end and back-end) and interface desig
 
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,nodejs,express,firebase,graphql,mongodb,prisma)](https://skillicons.dev)
 
-### CMS
-
-[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
-
 ### Prototyping
 
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai)](https://skillicons.dev)
