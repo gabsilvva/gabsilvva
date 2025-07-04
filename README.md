@@ -16,10 +16,6 @@ My work focuses on web applications (front-end and back-end) and interface desig
 
 [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
 
-### Tools
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions,gitlab,npm,pnpm,yarn,vercel,netlify,aws,postman)](https://skillicons.dev)
-
 ### Prototyping
 
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai)](https://skillicons.dev)
