@@ -6,7 +6,7 @@ My work focuses on web applications (front-end and back-end) and interface desig
 
 ### Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,threejs,js,ts,react,nextjs,gatsby,vue,nuxtjs,svelte,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,gatsby,vue,nuxtjs,svelte,jquery)](https://skillicons.dev)
 
 ### Back-end
 
